@@ -1,6 +1,6 @@
 <h1 align="center">Netflix-clone 👋</h1>
 <p>
-    <img src="https://imgur.com/2uhxS3D" alt="imagem de netflix"/>
+    <img src="./src/Assets/netflix.png" alt="imagem de netflix"/>
 </p>
 
 ## Install
