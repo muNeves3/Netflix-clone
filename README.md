@@ -1,5 +1,7 @@
 <h1 align="center">Netflix-clone 👋</h1>
-[Imgur](https://imgur.com/2uhxS3D)
+<p align-"center">
+ <blockquote class="imgur-embed-pub" lang="en" data-id="a/ZZGlDCN"  ><a href="//imgur.com/a/ZZGlDCN">netflix-clone</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
 
 ## Install
 
