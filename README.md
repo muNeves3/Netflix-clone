@@ -3,7 +3,7 @@
     <img src="./src/Assets/netflix.png" alt="imagem de netflix"/>
 </p>
 
-### Getting Started
+### Getting Started :computer:
 
 ## Install
 
@@ -23,7 +23,7 @@ yarn run start
 yarn run test
 ```
 
-## Tecnologies used in this project :Rocket:
+## Tecnologies used in this project :rocket:
 
 - [x] React
 - [x] Axios
