@@ -1,4 +1,4 @@
-<h1 align="center">Netflix-clone 👋</h1>
+<h1 align="center">Netflix-clone </h1> :atom:
 <p>
     <img src="./src/Assets/netflix.png" alt="imagem de netflix"/>
 </p>
