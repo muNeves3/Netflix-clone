@@ -1,6 +1,6 @@
 <h1 align="center">Netflix-clone 👋</h1>
 <p align-"center">
-  <img src="https://imgur.com/a/ZZGlDCN" />
+  <img src="https://imgur.com/2uhxS3D" />
 </p>
 
 ## Install
@@ -29,17 +29,8 @@ yarn run test
 
 ## Author
 
-👤 **Mayk Brito**
+👤 **Murilo Neves**
 
-- Website: gitshowcase.com/maykbrito
-- Twitter: [@maykbrito](https://twitter.com/maykbrito)
-- Github: [@maykbrito](https://github.com/maykbrito)
-- LinkedIn: [@maykbrito](https://linkedin.com/in/maykbrito)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+- Twitter: [@_muriloneves_](https://twitter.com/_muriloneves_)
+- Github: [@muNeves3](https://github.com/muNeves3)
+- Email: [murilogrilosn@gmail.com](mailto:murilogrilosn@gmail.com)
