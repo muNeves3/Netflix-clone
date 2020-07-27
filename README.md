@@ -1,6 +1,7 @@
 <h1 align="center">Netflix-clone ⚛️</h1> 
 <p>
-    <img src="./src/Assets/netflix.png" alt="imagem de netflix"/>
+    <img src="./src/Assets/netflix_1.png" alt="imagem de netflix"/>
+    <img src="./src/Assets/netflix_3.png" alt="imagem de netflix">
 </p>
 
 ### Getting Started :computer:
