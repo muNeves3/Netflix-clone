@@ -6,6 +6,10 @@
 
 ### Getting Started :computer:
 
+```sh 
+git clone https://github.com/muNeves3/Netflix-clone
+```
+
 ## Install
 
 ```sh
