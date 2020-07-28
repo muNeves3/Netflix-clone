@@ -36,8 +36,11 @@ yarn run test
 
 ## Author
 
+-> Original 👤 **CleverProgrammer(Rafeh Qazi)**
+- Github : [@CleverProgrammer](https://github.com/CleverProgrammer)
+
 👤 **Murilo Neves**
 
-- Twitter: [@_muriloneves_](https://twitter.com/_muriloneves_)
+- Twitter: [@__muriloneves__](https://twitter.com/_muriloneves_)
 - Github: [@muNeves3](https://github.com/muNeves3)
 - Email: [murilogrilosn@gmail.com](mailto:murilogrilosn@gmail.com)
