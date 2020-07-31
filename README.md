@@ -1,3 +1,4 @@
+<a href="https://netflix-clone-f2101.web.app/"><h2>https://netflix-clone-f2101.web.app/</h2></a>
 <h1 align="center">Netflix-clone ⚛️</h1> 
 <p>
     <img src="./src/Assets/netflix_1.png" alt="imagem de netflix"/>
